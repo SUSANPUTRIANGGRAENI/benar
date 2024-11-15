@@ -18,7 +18,7 @@ class BookSeeder extends Seeder
             "author" => "GTA",
             "year" => 2024,
             "publisher" => "UNSUR Mengantuk",
-            "city" => "Cianjir",
+            "city" => "Cianjur",
             "cover" => "public/cover.jpg",
             "bookshelf_id" => 1
         ]);
